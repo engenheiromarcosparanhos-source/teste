@@ -1,0 +1,6 @@
+{
+  "name": "Aplicativo de Ergonomia",
+  "description": "Aplicativo completo de ergonomia para avaliação do posto de trabalho, calculadora de alturas corporais (NR-17), pausas ativas com temporizador e consultoria ergonômica inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
